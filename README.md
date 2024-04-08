@@ -2,7 +2,7 @@
 
 ## Architecture
 
-![Alt Text](./s3-static-website.png)
+![Alt Text](./architecture/s3-static-website.png)
 
 ## Providers
 

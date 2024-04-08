@@ -20,3 +20,5 @@ terraform.rc
 
 # Ignore terraform.tfstate files
 terraform.tfstate
+
+.DS_Store
